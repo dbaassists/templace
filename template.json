@@ -21,7 +21,7 @@
             "location": "eastus",
             "name": "rg_name2",
             "properties": {},
-            "tags": "[parameters('tags')]"
+            "tags": {}
         }
     ],
     "outputs": {}
