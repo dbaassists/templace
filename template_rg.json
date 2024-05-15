@@ -1,0 +1,1 @@
+az group create --name rg_name4 --location eastus --tags "ambiente=dev" "setor=finance"
