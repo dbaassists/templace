@@ -1,0 +1,2 @@
+# templace
+templateAzure
